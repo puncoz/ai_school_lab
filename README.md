@@ -15,3 +15,5 @@
     ```
     
 ### Day 3:
+    - Linear Regression
+    - Logistic Regression
