@@ -6,4 +6,12 @@
     - Essential matrix using 8 points method.
     
 ### Day 2:
-    - 
+    - Python basics (numpy and matplotlib)
+    
+    Run this code to upload your CSV file to colab:
+    ```
+    from google.colab import files
+    uploaded = files.upload()
+    ```
+    
+### Day 3:
