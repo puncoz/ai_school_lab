@@ -25,3 +25,7 @@
     from google.colab import files
     files.download(‘1.jpg’)
     ```
+    
+### Day 4:
+    - Principle component analysis (PCA)
+    - 
