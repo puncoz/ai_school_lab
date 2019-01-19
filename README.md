@@ -17,3 +17,11 @@
 ### Day 3:
     - Linear Regression
     - Logistic Regression
+    - Image Segmentation using k-means
+    
+    Instead of cv2.imshow() please use the following 3 lines of code:
+    ```
+    cv2.imwrite(‘1.jpg’,img)
+    from google.colab import files
+    files.download(‘1.jpg’)
+    ```
