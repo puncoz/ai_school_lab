@@ -28,4 +28,4 @@
     
 ### Day 4:
     - Principle component analysis (PCA)
-    - 
+    - 3D reconstruction from 2D images
